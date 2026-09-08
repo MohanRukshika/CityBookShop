@@ -1,0 +1,7 @@
+admin,1234,Manager
+cashier1,1111,Cashier
+rukshi,123,Cashier
+Purnima,123,Manager
+Jana,j123,Manager
+manager1,1234,Manager
+purnima,1234,Cashier

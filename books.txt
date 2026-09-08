@@ -1,0 +1,11 @@
+Java Basics,Programming,2500.0
+Maths 101,Education,1800.0
+Atomic Habits,Self Help,2100.0
+Think and Grow Rich,self help,1800.0
+maths,education,1000.0
+science,education,1200.0
+english,language,1000.0
+french,language,2000.0
+french 2,language,1200.0
+maths2001,education,2300.0
+sceince,education,1230.0
